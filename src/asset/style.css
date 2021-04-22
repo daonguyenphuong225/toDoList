@@ -1,0 +1,12 @@
+.parent{
+    background-color: rebeccapurple;
+}
+.buttonAC{
+    width: 80%;
+    background-color: rgb(238, 94, 94);
+}
+.button{
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+}
